@@ -2,6 +2,8 @@
 
 We're building a place to trade tokenized stocks on Robinhood Chain without handing your assets to anyone.
 
+$CANOPIC - 0x42200daafdad1fc94328529e974a339bfa071f47
+
 Most on-chain pools work out a price from the balance of their reserves. That's fine for tokens whose price is formed on-chain, but a stock's real price is set on an exchange, and that exchange closes at night and on weekends. So we started from the other end. Every Canopic market has a vault that quotes around a Chainlink price and adds a spread based on the market hours and how balanced the vault is.
 
 A few things follow from that:
